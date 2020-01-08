@@ -4,7 +4,7 @@
 #
 Name     : perl-Image-Xbm
 Version  : 1.10
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xbm-1.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xbm-1.10.tar.gz
 Summary  : 'Load, create, manipulate and save xbm image files.'
@@ -84,4 +84,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.2/Image/Xbm.pm
+/usr/lib/perl5/vendor_perl/5.30.1/Image/Xbm.pm
