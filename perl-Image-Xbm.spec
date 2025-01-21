@@ -7,7 +7,7 @@
 #
 Name     : perl-Image-Xbm
 Version  : 1.11
-Release  : 18
+Release  : 19
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xbm-1.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xbm-1.11.tar.gz
 Summary  : 'Load, create, manipulate and save xbm image files.'
